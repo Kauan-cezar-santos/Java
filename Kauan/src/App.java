@@ -3,7 +3,7 @@ public class App {
         System.out.println("Hello, World!");
 
     
-        // %s - subistitui no texto um valor string 
+    // %s - subistitui no texto um valor string 
     System.out.printf("vai imprimir %s. %s %s\n", "um texto"; "quaquer");
 
     // %d - subistitui o coringa %d por um numeor inteiro no texto 
